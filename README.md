@@ -15,7 +15,7 @@ The program should be able to:
 * Delete students from the system.
 
 ## Project Layout ##
-* Extract FSDAssign1_Khilan_Kamlesh_2307483.zip and open folder as project in IntelliJ IDEA Community Edition
-* .fxml View files in Assignment1/src/main/resources
-* Main and Controller .java files in src/main/java/fsd/assignment/assignment1/
-* Asssignment1/student-data.txt contains all course information on currently stored students.
+* Extract 'FSDAssign1_Khilan_Kamlesh_2307483.zip' and open folder as project in IntelliJ IDEA Community Edition
+* .fxml View files in 'Assignment1/src/main/resources'
+* Main and Controller .java files in 'src/main/java/fsd/assignment/assignment1/'
+* 'Asssignment1/student-data.txt' contains all course information on currently stored students.
