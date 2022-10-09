@@ -7,7 +7,7 @@ This was the first of three projects as part of the Full Stack Applicaiton Devel
 ## Goal ##
 The goal of this project is to create a GUI application based on the idea of a student capturing system using a Model-View-Controller layout as shown below:
 
-![Model-View-Controller](https://github.com/khilankamlesh/Student-Course-Capture-GUI/blob/535e2e602f04ced934a0b02d9b1acffc3f2d8cfb/model-view-controller.png?raw=true)
+![Model-View-Controller](model-view-controller.png)
 
 The program should be able to:
 * Add students to the system when a ID, year of study and allocation of 3 module choices is entered
